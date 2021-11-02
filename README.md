@@ -6,6 +6,76 @@ Student Rapid Testing System
 
 ## Svitlana Berezhna
 
+<details>
+  <summary><b>:one: Spring Project Presentation :green_book::dollar::green_book::dollar::green_book:</b></summary> 
+  <br/>
+ 
+---
+![Student Testing](git_resources/presentation/presentation_slide_1.jpg "Presentation (slide № 1)")
+
+---
+![Student Testing](git_resources/presentation/presentation_slide_2.jpg "Presentation (slide № 2)")
+
+---
+![Student Testing](git_resources/presentation/presentation_slide_3.jpg "Presentation (slide № 3)")
+
+---
+![Student Testing](git_resources/presentation/presentation_slide_4.jpg "Presentation (slide № 4)")
+
+---
+![Student Testing](git_resources/presentation/presentation_slide_5.jpg "Presentation (slide № 5)")
+
+---
+![Student Testing](git_resources/presentation/presentation_slide_6.jpg "Presentation (slide № 6)")
+
+---
+![Student Testing](git_resources/presentation/presentation_slide_7.jpg "Presentation (slide № 7)")
+
+---
+![Student Testing](git_resources/presentation/presentation_slide_8.jpg "Presentation (slide № 8)")
+
+---
+![Student Testing](git_resources/presentation/presentation_slide_9.jpg "Presentation (slide № 9)")
+
+---
+![Student Testing](git_resources/presentation/presentation_slide_10.jpg "Presentation (slide № 10)")
+
+---
+![Student Testing](git_resources/presentation/presentation_slide_11.jpg "Presentation (slide № 11)")
+
+---
+![Student Testing](git_resources/presentation/presentation_slide_12.jpg "Presentation (slide № 12)")
+
+---
+![Student Testing](git_resources/presentation/presentation_slide_13.jpg "Presentation (slide № 13)")
+
+---
+![Student Testing](git_resources/presentation/presentation_slide_14.jpg "Presentation (slide № 14)")
+
+---
+</details> 
+<details>
+  <summary><b>:two: EER Model :orange_book::yen::orange_book::yen::orange_book:</b></summary>
+  <br/>
+ 
+---
+![Student Testing](git_resources/EER_model.png "EER Model")
+
+---
+</details>
+<details>
+  <summary><b>:three: Completed Homeworks :blue_book::euro::blue_book::euro::blue_book:</b></summary>
+  <br/>
+ 
+---
+![Student Testing](git_resources/completed_homeworks/completed_homeworks_page_1.jpg "Completed Homeworks (page № 1)")
+
+---
+ ![Student Testing](git_resources/completed_homeworks/completed_homeworks_page_2.jpg "Completed Homeworks (page № 2)")
+
+---
+</details>
+
 ### Used technologies, libraries and frameworks:
 - Java 8;
 - IntelliJ IDEA software development environment;
